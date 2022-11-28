@@ -1,4 +1,4 @@
-# Data Science Lab assessment
+# Assessment
 
 In deze simpele repo zitten twee notebooks:
 1. data_cleaning.ipynb - waarin data wordt schoongemaakt
